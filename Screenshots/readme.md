@@ -1,4 +1,5 @@
-Screenshots Folder
+# Screenshots
+
 This folder contains various screenshots captured from the public dashboard. Below is a description of the contents of the Screenshots.
 
 1. Vote Share
